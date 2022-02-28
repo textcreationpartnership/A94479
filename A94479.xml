@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honourable the House of Commons assembled in Parliament the humble petition of the knights, esquires, gentry, and commons, inhabitants of the county of Cambridge. Also, His Majesties message to both houses of Parliament upon His removall to the citie of Yorke.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94479</idno>
+            <idno type="STC">Wing T1444</idno>
+            <idno type="STC">Thomason 669.f.4[83]</idno>
+            <idno type="STC">ESTC R210311</idno>
+            <idno type="EEBO-CITATION">99869120</idno>
+            <idno type="PROQUEST">99869120</idno>
+            <idno type="VID">160705</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94479)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160705)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f4[83])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honourable the House of Commons assembled in Parliament the humble petition of the knights, esquires, gentry, and commons, inhabitants of the county of Cambridge. Also, His Majesties message to both houses of Parliament upon His removall to the citie of Yorke.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 sheet ([1]  p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Franke,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The petition prays that scandalous ministers be replaced, the universities be purged of Papists, Ireland relieved, and the Militia be put in posture of defence, &amp;c. -- Steele.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  Great Britain --  17th century --  Early works to 1800.</term>
+               <term>Clergy --  England --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Militia --  Early works to 1800.</term>
+               <term>Cambridge (England : County) --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:160705:1" rendition="simple:additions"/>
+            <head>To the Honourable the Houſe of Commons aſſembled in Parliament<lb/>The humble Petition of the Knights, Eſquires, Gentry, and Commons, Inhabitants of the County of <hi>Cambridge.</hi> ALSO, His Majeſties Meſſage to both Houſes of Parliament upon His Removall to the Citie of <hi>Yorke.</hi>
+            </head>
+            <opener>SHEWETH,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioners moſt thankfully acknowledgeing the wonderfull mercy of Almighty God, the wiſdome and goodneſſe of his Majeſty, the conſtant endevours of your Honourable Aſ<g ref="char:EOLhyphen"/>ſembly, and the ineſtimable benefits which we have already received by your unwearied paines, in the enacting thoſe many wholſome Lawes, for the maintaining of truth and peace amongſt us, notwithſtanding the daring inſolencies, and deſperate plots of the malignant party, from which being (by your vigilancies) delivered, we and the age to come are no leſſe in thankful<g ref="char:EOLhyphen"/>neſſe obliged to our mercifull God, than for thoſe former deliverances, whoſe memories wee yearely celebrate, Are by thoſe maine pledges of your undaunted pious reſolutions, for a through Reformation in the Church and State, now at length imboldened to preſent to your gracious acceptance. This as a teſtimony of our readineſſe to lay downe what you have redeemed, our lives and livelihoods in your ayde towards the perfecting ſo pious and bleſſed a worke, And humbly to beſeech you to believe us in our particular grievances. But above all to goe on in your wonted zeale for the generall, eſpecially for the advancement of Gods glory in ſettling his worſhip according to his Word. That able and painfull Miniſters may bee incouraged and pla<g ref="char:EOLhyphen"/>ced in the roomes of ſcandalous and inſufficient: All their unwarranted Orders and dignities taken away; The ſmaller Livings comfortably augmented with a ſtrict meanes, for the recovery of their dues. The Univerſities throughly purged from Popery and Arminianiſme, with their incroaching priviledges. And that their government may be ordered acording to the Lawes, and that Orthodoxall and prudent Governours be there in placed, to provide that purer Authours may be read to Students, and ſeverer courſes taken to prevent their future inſolencies towards the Countrey, which at the laſt Aſſizes did violently breake forth upon their diſcontents (as we conceive and ſome of them did then expreſſe) becauſe the Doctors and Heads of the Univerſity, were by the late Act left out of the Commiſſion. That there may be a Synod of the moſt pious, zealous, and learned Divines. That Papiſts may be confined, their ſubtill conveyed eſtates, to avoid forfeiture may be prevented, and they ſpeedily diſarmed. That Wills and Teſtaments be proved, and Legacies recovered in temperall Courts. That the Biſh<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p of <hi>Ely</hi>'s vaſt Juriſdiction may be limited, and his prejudiciall government taken away. That our County and Huntingtonſhire may be reuni<g ref="char:EOLhyphen"/>ted under one Sheriffe as formerly. That ſale of honour and office be prevented, Ill Counſellours removed, Delin<g ref="char:EOLhyphen"/>quents preſently and deſervedly puniſhed, <hi>Ireland</hi> ſpeedily and powerfully relieved, and for the timely prevention of many eminent dangers from thence and otherwiſe. That the <hi>Militia</hi> of the Kingdome be forthwith put in a war<g ref="char:EOLhyphen"/>like poſture of defence.</p>
+            <p>In all which and other your future indevours herein for the good of the publicke; the ſafetie and honour of our King, and the glory of the <hi>King of Kings,</hi> according to the late Proteſtation hereby ſignified to have been moſt cheerefully taken by us, we ſhall be alwayes ready, willing to ayde and aſſiſt you, And continually pray, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div type="statement">
+            <p>
+               <seg rend="decorInit">H</seg>Is Majeſty being now in his Remove to His City of <hi>York,</hi> where He intends to make His Reſidence for ſome time, thinks fit to ſend this Meſſage to both Houſes of Parliament.</p>
+            <p>That He doth very earneſtly deſire, That they will uſe all poſsible induſtry, in expediting the bu<g ref="char:EOLhyphen"/>ſineſſe of <hi>Ireland,</hi> in which they ſhall find ſo cheerfull a Concurrence by His Majeſtry, that no incon<g ref="char:EOLhyphen"/>venience ſhall happen to that Service by His abſence, He having all that Paſsion for the reducing of that Kingdome, which He hath expreſſed in His former Meſſages, and being unable by words to ma<g ref="char:EOLhyphen"/>nifeſt more affection to it, then He hath endevoured to do by thoſe Meſſages (having likewiſe done all ſuch Acts as he hath been moved unto by His Parliament) Therefore if the Mis<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fortunes and Calamities of His poore Prote<g ref="char:EOLhyphen"/>ſtant Subjects there ſhall grow upon them (though His Majeſtie ſhall be deeply concerned in, and ſenſible of their ſufferings) He ſhall waſh his hands before all the World, from the leaſt imputation of ſlackneſſe in that moſt neceſ<g ref="char:EOLhyphen"/>ſary and pious Work.</p>
+            <p>And that His Majeſtry may leave no way unattempted, which may beget a good underſtanding between Him and his Parliament; He thinks it neceſſary to Declare, That as He hath been ſo tender of the Privileges of Parliment, that He hath been ready and forward to retract any Act of His own, which Hee hath been Informed hath Trencht upon their Privileges, ſo He expects an equall tenderneſſe in them of His Majeſties knowne and unqueſtionable Pri<g ref="char:EOLhyphen"/>vileges (which are the Privileges of the Kingdome) amongſt which, He is aſſured it is a fundamentall One, that His Subjects cannot be Obliged to Obey any Act, Order, or Injunction to which His Majeſty hath not given His con<g ref="char:EOLhyphen"/>ſent: And therefore He thinks it neceſſary to publiſh, That He expects, and hereby Requires Obedience from all His loving Subjects to the Laws eſtabliſhed, and that they preſume not upon any pretence of Order, or Command (to which his Majeſty is no party) concerning the <hi>Militia</hi> or any other thing, to do or execute what is not warranted by thoſe Laws, His Majeſtie being reſolved to keep the Laws himſelfe, and to require Obedience to them from all His Subjects.</p>
+            <p>And His Majeſty once more recommends to His Parliament the ſubſtance of His Meſſage of the twentieth of <hi>January</hi> laſt, that they compoſe and digeſt, with all ſpeed, ſuch Acts as they ſhall think fit, for the preſent and future eſtabliſhment of their Privileges; The free and quiet enjoying their Eſtates and Fortunes; The Liberties of their Perſons; The Securitie of the true Religion now profeſſed in the Church of <hi>England;</hi> The mayntaining His Maje<g ref="char:EOLhyphen"/>ſties Regall and juſt Authority, and ſetling his Revenue; His Majeſtry being moſt deſirous to take all fitting and juſt wayes, which may beget a happy underſtanding between Him and His Parliament, in which He conceives his grea<g ref="char:EOLhyphen"/>teſt power and riches doth conſiſt.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Iohn Franke,</hi> 1641.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
